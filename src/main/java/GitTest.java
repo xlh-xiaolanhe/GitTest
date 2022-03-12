@@ -7,9 +7,8 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git!");
         System.out.println("hello git2!");
-        System.out.println("third");
-        System.out.println("forth");
         System.out.println("master delete it");
         System.out.println("test master");
+        System.out.println("modfiy for git");
     }
 }
