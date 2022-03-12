@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master delete it");
         System.out.println("test master");
         System.out.println("modfiy for git");
+        System.out.println("pull test");
     }
 }
